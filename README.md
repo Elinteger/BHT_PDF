@@ -1,4 +1,4 @@
-# BHTPDF 
+# BHT_PDF 
 
 Research and tooling for efficient work with PDF documents at the **Berliner Hochschule für Technik (BHT)**.
 
